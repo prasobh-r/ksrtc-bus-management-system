@@ -1,4 +1,4 @@
-# ksrtc-bus-management-system
+# Ksrtc-bus-management-system
 A Bus Service Management System for KSRTC to automate bus schedules, ticketing, and notifications.
 
 🚍 KSRTC Bus Service Management System
